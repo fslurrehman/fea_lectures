@@ -4,6 +4,7 @@ Hand writted PDF lecture Notes By Dr. Shahzad Rehman
 based on Textbook: Concepts and Applications of Finite Element Analysis by   Robert D. Cook , D.S. Malkus , M.E. Plesha. Revised by David S. Malkus and Michael E. Plesha 
 
 ## Course Content:
+
 1. Lecture 01: Overview
 2. Lecture 02: Method of Weighted Residual
     1. Galerkin
@@ -55,3 +56,8 @@ based on Textbook: Concepts and Applications of Finite Element Analysis by   Rob
     24. Energy Based Error Norms
     25. ZZ Error Estimate
     26. Global Strain Energy Norm   
+
+Other Materials:
+1. Course Outline
+2. Assignment and Solution
+3. Exam Papers
